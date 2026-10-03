@@ -1,0 +1,6 @@
+{
+  "name": "LENDEN",
+  "description": "LENDEN - Premium fintech banking, wallet, transfers, cards, portfolio analytics, and cinematic product showcase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
